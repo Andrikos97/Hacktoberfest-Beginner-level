@@ -132,4 +132,7 @@
 - [GeeksforGeeks Practice Problems](https://practice.geeksforgeeks.org/)
 
 - [Practise Data Structures](http://www.practiceds.com/#/)
+
 - [Coderbyte Challenges](https://coderbyte.com/challenges)
+
+- [FreeCodeCamp Algorithm interview questions](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/)
